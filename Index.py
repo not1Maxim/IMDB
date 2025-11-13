@@ -193,145 +193,145 @@ for i, (eng_genre, ua_genre) in enumerate(zip(genres, genres_ua), start=1):
             uk_title = translate_title(row["Title"])
 
             if row["Title"] == "The Dark Knight":
-                poster_path = "Poster/The_Dark_Knight.webp"
+                poster_path = "The_Dark_Knight.webp"
             elif row["Title"] == "Inception":
-                poster_path = "Poster/Inception.jpg"
+                poster_path = "Inception.jpg"
             elif row["Title"] == "Dangal":
-                poster_path = "Poster/Dangal.jpg"
+                poster_path = "Dangal.jpg"
             elif row["Title"] == "The Dark Knight Rises":
-                poster_path = "Poster/The_Dark_Knight_Rises.webp"
+                poster_path = "The_Dark_Knight_Rises.webp"
             elif row["Title"] == "Bahubali: The Beginning":
-                poster_path = "Poster/Bahubali_The_Beginning.webp"
+                poster_path = "Bahubali_The_Beginning.webp"
             elif row["Title"] == "Interstellar":
-                poster_path = "Poster/Interstellar.webp"
+                poster_path = "Interstellar.webp"
             elif row["Title"] == "WALL·E":
-                poster_path = "Poster/WALL·E.webp"
+                poster_path = "WALL·E.webp"
             elif row["Title"] == "Inglourious Basterds":
-                poster_path = "Poster/Inglourious_Basterds.png"
+                poster_path = "Inglourious_Basterds.png"
             elif row["Title"] == "Kimi no na wa":
-                poster_path = "Poster/Kimi_no_na_wa.webp"
+                poster_path = "Kimi_no_na_wa.webp"
             elif row["Title"] == "Koe no katachi":
-                poster_path = "Poster/Koe_no_katachi.webp"
+                poster_path = "Koe_no_katachi.webp"
             elif row["Title"] == "Toy Story 3":
-                poster_path = "Poster/Toy_Story_3.webp"
+                poster_path = "Toy_Story_3.webp"
             elif row["Title"] == "Up":
-                poster_path = "Poster/Up.webp"
+                poster_path = "Up.webp"
             elif row["Title"] == "The Intouchables":
-                poster_path = "Poster/The_Intouchables.jpg"
+                poster_path = "The_Intouchables.jpg"
             elif row["Title"] == "Hacksaw Ridge":
-                poster_path = "Poster/Hacksaw_Ridge.webp"
+                poster_path = "Hacksaw_Ridge.webp"
             elif row["Title"] == "The Wolf of Wall Street":
-                poster_path = "Poster/The_Wolf_of_Wall_Street.jpg"
+                poster_path = "The_Wolf_of_Wall_Street.jpg"
             elif row["Title"] == "Into the Wild":
-                poster_path = "Poster/Into_the_Wild.jpg"
+                poster_path = "Into_the_Wild.jpg"
             elif row["Title"] == "3 Idiots":
-                poster_path = "Poster/3_Idiots.webp"
+                poster_path = "3_Idiots.webp"
             elif row["Title"] == "La La Land":
-                poster_path = "Poster/La_La_Land.webp"
+                poster_path = "La_La_Land.webp"
             elif row["Title"] == "The Departed":
-                poster_path = "Poster/The_Departed.png"
+                poster_path = "The_Departed.png"
             elif row["Title"] == "Gone Girl":
-                poster_path = "Poster/Gone_Girl.jpg"
+                poster_path = "Gone_Girl.jpg"
             elif row["Title"] == "No Country for Old Men":
-                poster_path = "Poster/No_Country_for_Old_Men.webp"
+                poster_path = "No_Country_for_Old_Men.webp"
             elif row["Title"] == "Taare Zameen Par":
-                poster_path = "Poster/Taare_Zameen_Par.webp"
+                poster_path = "Taare_Zameen_Par.webp"
             elif row["Title"] == "Hachi: A Dog's Tale":
-                poster_path = "Poster/Hachi_A_Dog's_Tale.webp"
+                poster_path = "Hachi_A_Dog's_Tale.webp"
             elif row["Title"] == "Kubo and the Two Strings":
-                poster_path = "Poster/Kubo_and_the_Two_Strings.webp"
+                poster_path = "Kubo_and_the_Two_Strings.webp"
             elif row["Title"] == "Pan's Labyrinth":
-                poster_path = "Poster/Pan's_Labyrinth.jpg"
+                poster_path = "Pan's_Labyrinth.jpg"
             elif row["Title"] == "Star Wars: Episode VII - The Force Awakens":
-                poster_path = "Poster/Star_Wars_Episode_VII-The_Force_Awakens.webp"
+                poster_path = "Star_Wars_Episode_VII-The_Force_Awakens.webp"
             elif row["Title"] == "Harry Potter and the Deathly Hallows: Part 2":
-                poster_path = "Poster/Harry_Potter_and_the_Deathly_Hallows_Part_2.jpg"
+                poster_path = "Harry_Potter_and_the_Deathly_Hallows_Part_2.jpg"
             elif row["Title"] == "The Hobbit: An Unexpected Journey":
-                poster_path = "Poster/The_Hobbit_An_Unexpected_Journey.webp"
+                poster_path = "The_Hobbit_An_Unexpected_Journey.webp"
             elif row["Title"] == "12 Years a Slave":
-                poster_path = "Poster/12_Years_a_Slave.jpg"
+                poster_path = "12_Years_a_Slave.jpg"
             elif row["Title"] == "There Will Be Blood":
-                poster_path = "Poster/There_Will_Be_Blood.webp"
+                poster_path = "There_Will_Be_Blood.webp"
             elif row["Title"] == "Spotlight":
-                poster_path = "Poster/Spotlight.webp"
+                poster_path = "Spotlight.webp"
             elif row["Title"] == "Straight Outta Compton":
-                poster_path = "Poster/Straight_Outta_Compton.webp"
+                poster_path = "Straight_Outta_Compton.webp"
             elif row["Title"] == "Twin Peaks: The Missing Pieces":
-                poster_path = "Poster/Twin_Peaks_The_Missing_Pieces.webp"
+                poster_path = "Twin_Peaks_The_Missing_Pieces.webp"
             elif row["Title"] == "Zombieland":
-                poster_path = "Poster/Zombieland.webp"
+                poster_path = "Zombieland.webp"
             elif row["Title"] == "What We Do in the Shadows":
-                poster_path = "Poster/What_We_Do_in_the_Shadows.webp"
+                poster_path = "What_We_Do_in_the_Shadows.webp"
             elif row["Title"] == "Grindhouse":
-                poster_path = "Poster/Grindhouse.jpg"
+                poster_path = "Grindhouse.jpg"
             elif row["Title"] == "Busanhaeng":
-                poster_path = "Poster/Busanhaeng.jpg"
+                poster_path = "Busanhaeng.jpg"
             elif row["Title"] == "Whiplash":
-                poster_path = "Poster/Whiplash.webp"
+                poster_path = "Whiplash.webp"
             elif row["Title"] == "Sing Street":
-                poster_path = "Poster/Sing_Street.jpg"
+                poster_path = "Sing_Street.jpg"
             elif row["Title"] == "August Rush":
-                poster_path = "Poster/August_Rush.webp"
+                poster_path = "August_Rush.webp"
             elif row["Title"] == "Les Misérables":
-                poster_path = "Poster/Les_Misérables.webp"
+                poster_path = "Les_Misérables.webp"
             elif row["Title"] == "Sweeney Todd: The Demon Barber of Fleet Street":
-                poster_path = "Poster/Sweeney_Todd_The_Demon_Barber_of_Fleet_Street.webp"
+                poster_path = "Sweeney_Todd_The_Demon_Barber_of_Fleet_Street.webp"
             elif row["Title"] == "Across the Universe":
-                poster_path = "Poster/Across_the_Universe.webp"
+                poster_path = "Across_the_Universe.webp"
             elif row["Title"] == "Mamma Mia!":
-                poster_path = "Poster/Mamma_Mia!.webp"
+                poster_path = "Mamma_Mia!.webp"
             elif row["Title"] == "Rock of Ages":
-                poster_path = "Poster/Rock_of_Ages.webp"
+                poster_path = "Rock_of_Ages.webp"
             elif row["Title"] == "The Prestige":
-                poster_path = "Poster/The_Prestige.webp"
+                poster_path = "The_Prestige.webp"
             elif row["Title"] == "Incendies":
-                poster_path = "Poster/Incendies.jpg"
+                poster_path = "Incendies.jpg"
             elif row["Title"] == "El secreto de sus ojos":
-                poster_path = "Poster/El_secreto_de_sus_ojos.jpg"
+                poster_path = "El_secreto_de_sus_ojos.jpg"
             elif row["Title"] == "Ah-ga-ssi":
-                poster_path = "Poster/Ah-ga-ssi.webp"
+                poster_path = "Ah-ga-ssi.webp"
             elif row["Title"] == "Shutter Island":
-                poster_path = "Poster/Shutter_Island.jpg"
+                poster_path = "Shutter_Island.jpg"
             elif row["Title"] == "PK":
-                poster_path = "Poster/PK.jpg"
+                poster_path = "PK.jpg"
             elif row["Title"] == "The Perks of Being a Wallflower":
-                poster_path = "Poster/The_Perks_of_Being_a_Wallflower.webp"
+                poster_path = "The_Perks_of_Being_a_Wallflower.webp"
             elif row["Title"] == "Guardians of the Galaxy":
-                poster_path = "Poster/Guardians_of_the_Galaxy.webp"
+                poster_path = "Guardians_of_the_Galaxy.webp"
             elif row["Title"] == "The Avengers":
-                poster_path = "Poster/The_Avengers.webp"
+                poster_path = "The_Avengers.webp"
             elif row["Title"] == "Warrior":
-                poster_path = "Poster/Warrior.webp"
+                poster_path = "Warrior.webp"
             elif row["Title"] == "The Blind Side":
-                poster_path = "Poster/The_Blind_Side.webp"
+                poster_path = "The_Blind_Side.webp"
             elif row["Title"] == "Creed":
-                poster_path = "Poster/Creed.webp"
+                poster_path = "Creed.webp"
             elif row["Title"] == "Moneyball":
-                poster_path = "Poster/Moneyball.jpg"
+                poster_path = "Moneyball.jpg"
             elif row["Title"] == "42":
-                poster_path = "Poster/42.webp"
+                poster_path = "42.webp"
             elif row["Title"] == "The Lives of Others":
-                poster_path = "Poster/The_Lives_of_Others.webp"
+                poster_path = "The_Lives_of_Others.webp"
             elif row["Title"] == "Relatos salvajes":
-                poster_path = "Poster/Relatos_salvajes.jpg"
+                poster_path = "Relatos_salvajes.jpg"
             elif row["Title"] == "The Imitation Game":
-                poster_path = "Poster/The_Imitation_Game.webp"
+                poster_path = "The_Imitation_Game.webp"
             elif row["Title"] == "The Boy in the Striped Pyjamas":
-                poster_path = "Poster/The_Boy_in_the_Striped_Pyjamas.jpg"
+                poster_path = "The_Boy_in_the_Striped_Pyjamas.jpg"
             elif row["Title"] == "300":
-                poster_path = "Poster/300.webp"
+                poster_path = "300.webp"
             elif row["Title"] == "Django Unchained":
-                poster_path = "Poster/Django_Unchained.webp"
+                poster_path = "Django_Unchained.webp"
             elif row["Title"] == "True Grit":
-                poster_path = "Poster/True_Grit.webp"
+                poster_path = "True_Grit.webp"
             elif row["Title"] == "Brimstone":
-                poster_path = "Poster/Brimstone.webp"
+                poster_path = "Brimstone.webp"
             elif row["Title"] == "The Magnificent Seven":
-                poster_path = "Poster/The_Magnificent_Seven.webp"
+                poster_path = "The_Magnificent_Seven.webp"
             elif row["Title"] == "The Lone Ranger":
-                poster_path = "Poster/The_Lone_Ranger.webp"
+                poster_path = "The_Lone_Ranger.webp"
             elif row["Title"] == "Ratatouille":
-                poster_path = "Poster/Ratatouille.webp"
+                poster_path = "Ratatouille.webp"
 
             movies_html += f"""
             <div style='background:white; border-radius:12px; padding:15px; width:28%; 
